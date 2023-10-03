@@ -1,7 +1,7 @@
 - 👋 Hi, my nake is Kirill
 - 👀 I’m interested in mobile development, specifically Android.
-- 🌱 I’m currently learning Kotlin and different Android libraries.
-- 💞️ I’m looking to collaborate on cool new Android apps.
+- 🌱 I’m currently working as an Android developer.
+- 💞️ Also working on my pet-projects, specifially "TellMe" - an open-source mood tracking app.
 - 📫 You can reach me via email: levoxart@gmail.com
 
 <!---
