@@ -1,8 +1,8 @@
-- 👋 Hi, my nake is Kirill
-- 👀 I’m interested in mobile development, specifically Android.
-- 🌱 I’m currently working as an Android developer.
-- 💞️ Also working on my pet-projects, specifially "TellMe" - an open-source mood tracking app.
-- 📫 You can reach me via email: levoxart@gmail.com
+- 👋 Hi, my name is Kirill
+- 👀 Software development is fun, especially gamedev. But making Android apps is cool too
+- 🌱 Currently working as an Android developer.
+- 💞️ Also working on my pet projects, if I have time/mood/desire to do so
+- 📫 If you, for some reason, wanna write me smth, here's an email address: levoxart@gmail.com
 
 <!---
 Levox98/Levox98 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
